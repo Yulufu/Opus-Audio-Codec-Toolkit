@@ -1,0 +1,33 @@
+# Build artifacts
+build/
+*.o
+encode
+decode
+
+# Test outputs
+test_*.opus
+test_*.wav
+*.ops
+*.opus
+
+# IDE and system files
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Logs
+*.log
