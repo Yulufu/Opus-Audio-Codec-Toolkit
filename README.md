@@ -100,8 +100,9 @@ opus-toolkit/
 │   ├── utils.h       # Utility headers
 │   └── common.h      # Common definitions
 ├── tests/
-│   └── test.sh       # Test script
-│   └── simple_test.sh 
+│   ├──test.sh       # Test script
+│   ├── simple_test.sh 
+│   └── debug_test.sh
 ├── examples/         # Example audio files
 ├── build/           # Build artifacts (generated)
 ├── Makefile         # Build configuration
