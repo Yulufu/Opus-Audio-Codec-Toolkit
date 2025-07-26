@@ -91,6 +91,7 @@ Input WAV files must be:
 - Format: 16-bit PCM
 
 ## Project Structure
+```bash
 opus-toolkit/
 ├── src/
 │   ├── encode.c      # Encoder implementation
@@ -107,4 +108,4 @@ opus-toolkit/
 ├── build.sh         # Alternative build script
 └── README.md        # This file
 
-
+```
